@@ -2,8 +2,8 @@
 //  ContentView.swift
 //  FBGroupSwiftUI
 //
-//  Created by Gati Shah on 14/06/19.
-//  Copyright © 2019 Gati Shah. All rights reserved.
+//  Created by iGatiTech on 14/06/19.
+//  Copyright © 2019 iGatiTech. All rights reserved.
 //
 
 import SwiftUI
@@ -27,7 +27,7 @@ struct ContentView : View {
                 ForEach(posts, id: \.id) { post in
                    PostView(post: post)
                 }
-                }.navigationBarTitle(Text("Groups"))
+                }.navigationBarTitle(Text("Groups")).navigationViewStyle(StackNavigationViewStyle())
         }
     }
 }

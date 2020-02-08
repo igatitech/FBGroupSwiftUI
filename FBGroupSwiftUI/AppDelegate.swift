@@ -2,16 +2,14 @@
 //  AppDelegate.swift
 //  FBGroupSwiftUI
 //
-//  Created by Gati Shah on 14/06/19.
-//  Copyright © 2019 Gati Shah. All rights reserved.
+//  Created by iGatiTech on 14/06/19.
+//  Copyright © 2019 iGatiTech. All rights reserved.
 //
 
 import UIKit
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
