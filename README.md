@@ -61,6 +61,11 @@ List(0..<10) { item in
 ![alt text](https://github.com/igatsha/FBGroupSwiftUI/blob/master/Github_data/layout.gif)          
 ![alt text](https://github.com/igatsha/FBGroupSwiftUI/blob/master/Github_data/Screenshot.png)
 
+**Happy Coding! Cheers!!** 🥂 
+
+## Author
+If you wish to contact me, email at: [gati1993@gmail.com](gati1993@gmail.com)
+
 ## License
 Copyright 2019 Gati Shah
 

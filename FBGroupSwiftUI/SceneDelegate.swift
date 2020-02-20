@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  FBGroupSwiftUI
 //
-//  Created by iGatiTech on 14/06/19.
+//  Created by Gati on 14/06/19.
 //  Copyright © 2019 iGatiTech. All rights reserved.
 //
 
